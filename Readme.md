@@ -7,7 +7,7 @@ Ce site web est conçu et maintenu par **Jérôme Fromantin, développeur front-
 A part le fait d'être un projet de longue durée pour m'aider à améliorer mes compétences en développement web front-end, cette application a pour objectif de présenter en images la collection d'objets divers que j'ai réuni au cours des ans au sujet de mon chanteur préféré, le "King Of Pop, Rock & Soul", Michael Jackson.
 
 ## Site web
-Future URL de netlify
+https://king-of-pop-collection.netlify.app/
 
 ## Travail en cours
 "King Of Pop Collection" est un travail en cours qui est très loin d'être terminé. Aucune photographie des pièces de collection n'est présente pour le moment et seule la première page, concernant les disques et cassettes, est totalement remplie (au niveau des informations descriptives), les pages des autres catégories étant actuellement vides.
@@ -23,6 +23,7 @@ HTML5 - CSS3 - JavaScript - React - GitHub
 Lundi 15 août 2022
 - Création du repository.
 - Upload de tous les fichiers existants à ce jour.
+- Mise en ligne sur Netlify.
 
 ## Travaux à réaliser
 - [ ] Page "Disques et cassettes" : Amélioration des infos de chaque pièce de collection dans sa propre page, carte 41 à 253.
