@@ -1,0 +1,168 @@
+/* Pour le composant "Layout". */
+
+/* Sous-composant "Banner". */
+.wholeBanner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-image: url("../assets/images/layout/Damier.png");
+    padding: 20px 50px;
+    border-bottom: 1px black solid;
+    margin: 0
+}
+
+.mjBannerLeft, .mjBannerRight {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 208px
+}
+
+.mjBanner {
+    opacity: 0.1;
+    width: 200px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 20px
+}
+.mjBanner:hover {
+    cursor: pointer;
+    opacity: 1
+}
+
+.centerBanner {
+    display: flex;
+    align-items: center;
+    flex-direction: column
+}
+
+.centerLink {
+    width: 208px;
+    text-align: center;
+    margin: 0 auto
+}
+
+.logo {
+    background: white;
+    width: 200px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 20px;
+    margin: 0 auto
+}
+
+.centerTitle {
+    margin-top: 20px
+}
+
+.title {
+    background: rgba(255, 255, 255, 0.8);
+    color: darkgoldenrod;
+    font-size: 2rem;
+    text-align: center;
+    padding: 10px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 20px
+}
+/* Fin du sous-composant "Banner". */
+
+/* Sous-composants "Form" et "Footer-test" supprimés. */
+.form {
+    font-size: 16px;
+    margin: 10px 20px
+}
+
+.footer-test {
+    padding-left: 20px
+}
+
+.footerInput {
+    font-size: 16px;
+    border: 1px black solid;
+    margin-left: 10px
+}
+/* Fin des sous-composants "Form" et "Footer-test" supprimés. */
+
+/* Sous-composant "Footer". */
+footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: url("../assets/images/layout/Damier.png");
+    height: 150px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0;
+    border-top: 1px black solid
+}
+
+.centerTitle-Footer {
+    background: rgba(255, 255, 255, 0.8);
+    padding: 0 10px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 20px
+}
+
+.title-Footer {
+    color: darkgoldenrod;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 0
+}
+/* Fin du sous-composant "Footer". */
+
+/* MEDIA QUERIES */
+/* Sur les écrans de 863px ou moins. */
+@media screen and (max-width: 863px) {
+    .title {
+        font-size: 1rem
+    }
+}
+
+@media screen and (max-width: 783px) {
+    .centerTitle {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        width: 208px;
+        padding: 0
+    }
+}
+
+@media screen and (max-width: 725px) {
+    .mjBannerLeft, .mjBannerRight {
+        width: 25%
+    }
+    .centerBanner {
+        width: 40%
+    }
+    .mjBanner, .centerLink, .centerTitle {
+        width: 100%
+    }
+    .logo {
+        width: 94%
+    }
+}
+
+@media screen and (max-width: 600px) {
+    .wholeBanner {
+        display: flex;
+        justify-content: center
+    }
+    .mjBannerLeft, .mjBannerRight {
+        display: none
+    }
+}
+
+@media screen and (max-width: 500px) {
+    .centerBanner {
+        width: 50%
+    }
+    .title-Footer {
+        font-size: 20px
+    }
+}
+
+@media screen and (max-width: 414px) {
+    .centerBanner {
+        width: 62%
+    }
+}

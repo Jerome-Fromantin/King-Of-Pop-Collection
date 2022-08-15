@@ -1,0 +1,107 @@
+/* Pour le composant "Accueil.js". */
+.accueilMain {
+    text-align: center
+}
+
+h2, .accueilText {
+    font-size: 32px;
+    padding: 10px;
+    margin: 0 auto
+}
+.accueilText {
+    background: lightgrey;
+    width: 80%;
+    font-size: 24px;
+    padding: 0 10px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px
+}
+
+.accueilTextTitle {
+    background: white;
+    color: darkgoldenrod;
+    font-weight: bold;
+    padding: 0 5px;
+    border: 2px darkgoldenrod solid;
+    border-radius: 5px
+}
+
+.accueilCard {
+    display: inline-block;
+    width: 350px;
+    height: 550px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px;
+    margin: 20px
+}
+
+.accueilPhoto {
+    background: grey;
+    /* Les 5 règles suivantes seront supprimées quand une image sera ajoutée. */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    font-weight: bold;
+    /* Fin des règles à supprimer bientôt. */
+    width: 350px;
+    height: 350px;
+    border-radius: 4px 4px 0 0
+}
+
+.accueilNom {
+    color: red;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center
+}
+
+.accueilInfos {
+    color: black;
+    font-weight: bold;
+    margin-bottom: 30px
+}
+
+.accueilLink {
+    background: black;
+    color: darkgoldenrod;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 2px black solid;
+    border-radius: 10px
+}
+.accueilLink:hover {
+    background: darkgoldenrod;
+    color: black
+}
+
+/* MEDIA QUERIES */
+/* Sur les écrans de 498px ou moins. */
+@media screen and (max-width: 498px) {
+    h2 {
+        font-size: 24px
+    }
+    .accueilText {
+        font-size: 20px
+    }
+}
+
+@media screen and (max-width: 398px) {
+    .accueilCard {
+        width: 310px
+    }
+    .accueilPhoto {
+        width: 310px;
+        height: 310px
+    }
+}
+
+@media screen and (max-width: 373px) {
+    h2 {
+        font-size: 20px
+    }
+    .accueilText {
+        font-size: 16px
+    }
+}

@@ -1,0 +1,213 @@
+/* Pour le composant "Disques.js". */
+
+/* Sous-composant "Present". */
+.present {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    margin: 20px 10px
+}
+
+.presentTitle {
+    display: inline-block;
+    background: lightgray;
+    font-size: 32px;
+    padding: 10px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px
+}
+/* Fin du sous-composant "Present". */
+
+/* Sous-composants "Albums" et "Supports". */
+.allAlbums, .allSupports {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    margin: 25px 0
+}
+.allSupports {
+    height: 45px;
+    margin-bottom: 25px
+}
+
+.triTitle {
+    font-size: 20px;
+    font-weight: bold
+}
+
+.albums, .supports {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 80%
+}
+
+.album, .support {
+    background: red;
+    color: white;
+    font-size: 24px;
+    padding: 5px 10px;
+    border: 2px black solid;
+    border-radius: 5px;
+    margin: 5px
+}
+.album:hover, .support:hover {
+    cursor: pointer;
+    background: black;
+    border: 2px red solid
+}
+
+.resetButton {
+    cursor: pointer;
+    font-size: 20px;
+    margin-top: 25px
+}
+/* Fin des sous-composants "Albums" et "Supports". */
+
+.list {
+    text-align: center
+}
+
+/* Sous-composant "getNameAndCount()". */
+.nameAndCount {
+    display: inline-block;
+    background: lightgray;
+    padding: 0 20px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px;
+    margin: 20px 0
+}
+
+.albsupName, .goldCount {
+    color: darkgoldenrod;
+    font-size: 32px;
+    font-weight: bold
+}
+.goldCount {
+    text-shadow: 0 0 6px darkgoldenrod
+}
+
+.albsupCount {
+    font-size: 20px
+}
+/* Fin du sous-composant "getNameAndCount()". */
+
+/* Sous-composant "getCards()". */
+.card {
+    display: inline-block;
+    width: 350px;
+    height: 600px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px;
+    margin: 20px
+}
+
+.photo {
+    background: transparent;
+    width: 350px;
+    height: 350px;
+    border-radius: 10px 10px 0 0;
+    margin-bottom: 0
+}
+
+.pic {
+    height: 350px;
+    border-radius: 4px 4px 0 0
+}
+
+.cardId {
+    display: inline-block;
+    background: lightgray;
+    color: darkgoldenrod;
+    font-size: 24px;
+    font-weight: bold;
+    padding: 0 5px;
+    border: 2px darkgoldenrod solid;
+    border-top: none;
+    border-radius: 0 0 5px 5px;
+    margin-bottom: 10px
+}
+
+.name {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 90px;
+    color: blue;
+    font-size: 24px;
+    font-weight: bold;
+    margin: 0 auto 10px auto
+}
+
+.info {
+    color: blue;
+    font-weight: bold
+}
+
+.linkDiv {
+    margin-top: 20px
+}
+
+.disquesLink {
+    background: black;
+    color: darkgoldenrod;
+    font-weight: bold;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 2px black solid;
+    border-radius: 10px
+}
+.disquesLink:hover {
+    background: darkgoldenrod;
+    color: black
+}
+/* Fin du sous-composant "getCards()". */
+
+/* MEDIA QUERIES */
+/* Sur les écrans de 659px ou moins. */
+@media screen and (max-width: 659px) {
+    .album, .support {
+        font-size: 20px
+    }
+}
+
+@media screen and (max-width: 577px) {
+    .album, .support {
+        font-size: 16px
+    }
+    .album {
+        margin: 5px 3px
+    }
+}
+
+@media screen and (max-width: 442px) {
+    .present {
+        font-size: 20px
+    }
+    .albsupName, .goldCount {
+        font-size: 24px
+    }
+    .albsupCount {
+        font-size: 16px
+    }
+}
+
+@media screen and (max-width: 398px) {
+    .card {
+        width: 310px;
+        height: 560px
+    }
+    .photo, .pic {
+        width: 310px;
+        height: 310px
+    }
+}
+
+@media screen and (max-width: 371px) {
+    .present {
+        font-size: 16px
+    }
+}

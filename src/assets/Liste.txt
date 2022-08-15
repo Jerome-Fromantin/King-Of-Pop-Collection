@@ -1,0 +1,255 @@
+Num - Titre et type
+
+001 - Big Boy
+002 - Limited Edition - Big Boy
+003 - Pre-History - The Lost Steeltown Recordings
+004 - Diana Ross Presents The Jackson 5
+005 - ABC
+006 - Third Album [vi]
+007 - Third Album [cd]
+008 - The Best Of Jackson 5 - The Christmas Collection
+009 - Maybe Tomorrow [vi]
+010 - Maybe Tomorrow [cd]
+011 - Goin' Back To Indiana - Original TV Soundtrack
+012 - Got To Be There
+013 - Children Of The Light
+014 - Ben
+015 - Skywriter
+016 - Music & Me
+017 - Motown-Extra Special
+018 - Farewell My Summer Love
+019 - Farewell My Summer Love (extended version)
+020 - Get It Together
+021 - Forever, Michael
+022 - Music And Me
+023 - Motown's greatest hits - Michael Jackson
+024 - Moving Violation
+025 - Anthology Jackson 5
+026 - Anthology Michael Jackson
+027 - Love Songs
+028 - The Michael Jackson Mix - 40 Specially [...] [vi]
+029 - The Michael Jackson Mix - 40 Specially [...] [k7]
+030 - The Best Of Michael Jackson
+031 - J5 Soulsation!
+032 - Michael Jackson With The Jackson 5 - Master Serie
+033 - I Want You Back! Unreleased Masters
+034 - The Stripped Mixes
+035 - The Jacksons [vi]
+036 - The Jacksons [cd]
+037 - Personal
+038 - Goin' Places [vi]
+039 - Goin' Places [cd]
+040 - Good Times
+041 - Ease On Down The Road
+042 - Destiny
+043 - Shake Your Body (Down To The Ground)
+044 - Off The Wall [vi]
+045 - Off The Wall [vi-pic]
+046 - Off The Wall [cd]
+047 - Off The Wall - Special Edition [cd]
+048 - Off The Wall [k7]
+049 - Don't Stop 'Til You Get Enough
+050 - She's Out Of My Life
+051 - Don't Stop 'Til You Get Enough
+052 - Triumph
+053 - Live
+054 - Thriller [vi]
+055 - Thriller [vi] [différent]
+056 - Thriller [cd]
+057 - Thriller - Special Edition [cd]
+058 - Thriller [k7]
+059 - Billie Jean
+060 - Beat It
+061 - Wanna Be Startin' Somethin'
+062 - Thriller [vi-pt45t]
+063 - Thriller [vi-gd45t]
+064 - P.Y.T. (Pretty Young Thing)
+065 - The 12" Mixes
+066 - Great Cola Commercials 2
+067 - Thriller 25
+068 - Wanna Be Startin' Somethin' 2008 [cd-sin]
+069 - Wanna Be Startin' Somethin' 2008 [cd-maxi]
+070 - E.T. The Extra-Terrestrial
+071 - Pipes Of Peace
+072 - Say Say Say
+073 - Dynamite
+074 - Do What You Do
+075 - Victory [vi]
+076 - Victory [vi]
+077 - Victory [cd]
+078 - State Of Shock [vi-pt45t]
+079 - State Of Shock [vi-gd45t]
+080 - Torture
+081 - We Are The World [vi]
+082 - We Are The World [cd]
+083 - We Are The World [vi-pt45t]
+084 - We Are The World [vi-gd45t]
+085 - Time Out For The Burglar (12" extended version)
+086 - Bad [vi]
+087 - Bad [vi-pic]
+088 - Bad [cd]
+089 - Bad [cd] [différent]
+090 - Bad - Special Edition [cd]
+091 - Bad 25
+092 - Bad [k7]
+093 - I Just Can't Stop Loving You [vi-pt45t]
+094 - I Just Can't Stop Loving You [cd-sin]
+095 - Bad [vi-pt45t]
+096 - Bad [vi-33t (single)]
+097 - Bad [minicd-sin]
+098 - The Way You Make Me Feel
+099 - Man In The Mirror
+100 - Dirty Diana
+101 - Another Part Of Me
+102 - Smooth Criminal [vi-pt45t]
+103 - Smooth Criminal [cd-sin]
+104 - Leave Me Alone
+105 - Instrumental Version Collection
+106 - London Synphonic Orchestra Plays Michael Jackson
+107 - Smooth Criminal [cd-sin (Reprise)]
+108 - Characters
+109 - 2300 Jackson Street
+110 - The Jacksons [k7]
+111 - Dangerous [vi]
+112 - Dangerous [cd]
+113 - Dangerous - Collector's Edition * First Printing
+114 - Dangerous - Special Edition [cd]
+115 - Dangerous [k7]
+116 - Black Or White [vi-pt45t]
+117 - Black Or White [vi-gd45t]
+118 - Black Or White [minicd-sin]
+119 - Black Or White [cd-sin]
+120 - Black Or White [cd-maxi]
+121 - Remember The Time
+122 - In The Closet [vi-pt45t]
+123 - In The Closet [cd-maxi]
+124 - In The Closet [cd-maxi] [différent]
+125 - In The Closet [cd-maxi] [différent]
+126 - In The Closet - mixes behind door #2 [cd-maxi]
+127 - Who Is It [vi-pt45t]
+128 - Who Is It [vi-33t (single)]
+129 - Who Is It [cd-maxi]
+130 - Who Is It [cd-maxi] [différent]
+131 - Jam [vi-pt45t]
+132 - Jam [vi-33t (single)]
+133 - Jam [cd-maxi]
+134 - Jam [cd-maxi] [différent]
+135 - Jam #2 [cd-maxi]
+136 - Heal The World [vi-pt45t]
+137 - Heal The World [cd-sin]
+138 - Heal The World - The Interview [cd]
+139 - Someone Put Your Hand Out - Exclusive Release
+140 - Give In To Me [cd-sin]
+141 - Give In To Me [cd-maxi]
+142 - Give In To Me [k7-sin]
+143 - Will You Be There [cd-sin]
+144 - Will You Be There [cd-maxi]
+145 - Will You Be There [k7-sin]
+146 - Gone Too Soon [vi-gd45t]
+147 - Gone Too Soon [cd-sin]
+148 - Gone Too Soon [cd-maxi]
+149 - Dangerous Collector's Edition
+150 - Dangerous - The Remix Collection
+151 - Free Willy
+152 - Michael Jackson Tour Souvenir CD Single
+153 - Love At Last - The Complete Rarities Collection
+154 - He Still Drives Me Wild! - The Rare Promo Mixes Part Two
+155 - Michael Jackson and a little sister
+156 - Live And Dangerous
+157 - Black Or White [concert Dangerous]
+158 - Lester Bowie's Brass Fantasy - The Fire This Time
+159 - Harpissimo
+160 - Comme une ombre
+161 - Love's Alright
+162 - Dreams & Illusions
+163 - HIStory - Past, Present And Future Book I [vi]
+164 - HIStory - Past, Present And Future Book I [cd]
+165 - HIStory - Past, Present And Future Book I [cd] [différent]
+166 - HIStory - Past, Present And Future Book I [k7]
+167 - Greatest Hits HIStory Volume I
+168 - Scream [vi-pt45t]
+169 - Scream [vi-pt45t] [différent]
+170 - Scream [vi-33t (single)]
+171 - Scream [vi-gd45t]
+172 - Scream [vi-33t (single)] [différent]
+173 - Scream [cd-sin]
+174 - Scream [cd-maxi]
+175 - Scream [cd-maxi] [différent]
+176 - Scream [cd-maxi] [différent]
+177 - Scream - Volume 1 [cd-maxi] [différent]
+178 - Scream [cd-maxi] [différent]
+179 - Free Willy 2 - The Adventure Home
+180 - You Are Not Alone [cd-sin]
+181 - You Are Not Alone [cd-maxi]
+182 - You Are Not Alone [cd-maxi] [différent]
+183 - You Are Not Alone [cd-maxi] [différent]
+184 - You Are Not Alone - The Classic Remix Series - 1/-"Rock With You" [cd-maxi] [différent]
+185 - You Are Not Alone [cd-maxi] [différent]
+186 - You Are Not Alone - The Remixes [cd-maxi] [différent]
+187 - You Are Not Alone - The Remixes [cd-maxi] [différent]
+188 - Earth Song [vi-33t (single)]
+189 - Earth Song [cd-sin]
+190 - Earth Song [cd-maxi]
+191 - Earth Song [cd-maxi] [différent]
+192 - Earth Song - The Classic Remix Series - 2/-"Wanna Be Startin' Somethin'" [cd-maxi] [différent]
+193 - Brotherhood
+194 - Why [cd-sin]
+195 - They Don't Care About Us [vi-33t (single)]
+196 - They Don't Care About Us [cd-sin]
+197 - They Don't Care About Us [cd-sin] [différent]
+198 - They Don't Care About Us [cd-maxi]
+199 - They Don't Care About Us - The Classic Remix Series - 3/-"Beat It" [cd-maxi] [différent]
+200 - They Don't Care About Us [cd-maxi] [différent]
+201 - They Don't Care About Us [cd-maxi] [différent]
+202 - They Don't Care About Us [cd-maxi] [différent]
+203 - They Don't Care About Us [cd-maxi] [différent]
+204 - Stranger In Moscow [vi-33t (single)]
+205 - Stranger In Moscow [vi-33t (single)] [différent]
+206 - Stranger In Moscow [cd-sin]
+207 - Stranger In Moscow - Part 1 In A Series Of 3 [cd-maxi]
+208 - Stranger In Moscow - Part 2 In A Series Of 3 [cd-maxi]
+209 - Stranger In Moscow - Part 3 In A Series Of 3 [cd-maxi]
+210 - Stranger In Moscow - CD1 [cd-maxi]
+211 - Stranger In Moscow - CD2 [cd-maxi]
+212 - Stranger In Moscow [cd-maxi] [différent]
+213 - I Need You [cd-sin]
+214 - Michael Jackson
+215 - Michael Jackson [différent]
+216 - Blood On The Dance Floor [cd]
+217 - Blood On The Dance Floor [k7]
+218 - Blood On The Dance Floor [vi-33t (single)]
+219 - Blood On The Dance Floor [cd-sin]
+220 - Blood On The Dance Floor [cd-maxi]
+221 - Blood On The Dance Floor [cd-maxi] [différent]
+222 - Blood On The Dance Floor [cd-maxi] [différent]
+223 - HIStory/Ghosts [cd-sin]
+224 - HIStory/Ghosts [cd-maxi]
+225 - HIStory/Ghosts [cd-maxi] [différent]
+226 - HIStory/Ghosts [cd-maxi] [différent]
+227 - Ghosts - Deluxe Collector Box Set
+228 - Ashita Ga Kikoeru - Children's Holiday
+229 - Invincible [cd]
+230 - Invincible [cd] [Couverture bleue]
+231 - Invincible [cd] [Couverture orange]
+232 - Invincible [cd] [Couverture rouge]
+233 - Invincible [cd] [Couverture verte]
+234 - You Rock My World [vi-gd45t]
+235 - You Rock My World [vi-33t (single)]
+236 - You Rock My World [cd-sin]
+237 - You Rock My World [cd-maxi]
+238 - Cry [cd-sin]
+239 - Cry [cd-maxi]
+240 - Number Ones [cd] [Couverture 1979]
+241 - Number Ones [cd] [Couverture 1984]
+242 - Number Ones [cd] [Couverture 1988]
+243 - Number Ones [cd] [Couverture 1995]
+244 - One More Chance [vi-33t (single)]
+245 - One More Chance [vi-pic]
+246 - One More Chance [cd-sin]
+247 - Number Ones Mixed By Troop One Collector
+248 - The Ultimate Collection
+249 - King Of Pop - The French Fans' Selection - Edition collector
+250 - Michael Jackson's This Is It
+251 - Michael
+252 - Immortal
+253 - Xscape

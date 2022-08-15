@@ -1,0 +1,171 @@
+/* Pour le composant "Disque.js". */
+.gallery, .prevNextCard, .h2Div, .cardInfos, .cardSongs {
+    background: lightgrey;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px
+}
+
+/* Sous-composant "Gallery". */
+.wholeGallery {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px 0
+}
+
+.galleryArrowsDiv {
+    cursor: pointer
+}
+
+.galleryCenter {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center;
+    margin: 0 20px
+}
+
+.gallery {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 600px;
+    font-size: 24px; /* A supprimer plus tard... */
+    text-align: center; /* A supprimer plus tard... */
+    margin: 0 auto
+}
+
+.galleryPicture {
+    text-align: center;
+    border-radius: 6px
+}
+
+.galleryNumero {
+    background: lightgray;
+    width: 30px;
+    color: darkgoldenrod;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 5px;
+    border: 2px darkgoldenrod solid;
+    border-top: none;
+    border-radius: 0 0 5px 5px
+}
+/* Fin du sous-composant "Gallery". */
+
+.indivPageTitleDiv {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px
+}
+
+.prevNextCard {
+    font-size: 24px;
+    font-weight: bold;
+    text-decoration: none;
+    margin: 0 10px
+}
+.prevNextCard:hover {
+    background: darkgoldenrod;
+    color: lightgrey;
+    border-color: black
+}
+
+.prevNextCard, .h2Div {
+    color: darkgoldenrod;
+    text-align: center;
+    padding: 5px
+}
+
+.indivPageH2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    margin: 0
+}
+
+.indivPageName {
+    font-size: 24px
+}
+
+.indivPageMain {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    width: 90%;
+    font-size: 24px;
+    padding: 0;
+    margin: 10px auto
+}
+
+.cardInfos, .cardSongs {
+    min-height: 250px;
+    width: 46%;
+    padding: 5px 5px 5px 15px;
+    margin: 0 5px 0 0
+}
+.cardSongs {
+    margin: 0 0 0 5px
+}
+
+.cardInfosTitle, .cardSongsTitle {
+    color: darkgoldenrod;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center
+}
+
+.cardInfosParag {
+    text-align: left
+}
+
+.infosData, .songsId {
+    color: blue;
+    font-weight: bold
+}
+
+.cardSongsParag {
+    display: flex;
+    align-items: flex-start;
+    flex-direction: column;
+    text-align: left;
+    margin-bottom: 10px
+}
+
+/* MEDIA QUERIES */
+/* Sur les écrans de 899px ou moins. */
+@media screen and (max-width: 899px) {
+    .indivPageMain {
+        align-items: center;
+        flex-direction: column
+    }
+    .cardInfos, .cardSongs {
+        width: 96%;
+        margin: 0 0 5px 0
+    }
+    .cardSongs {
+        margin: 5px 0 0 0
+    }
+}
+
+@media screen and (max-width: 780px) {
+    .galleryCenter {
+        width: 70%;
+        margin: 0 2%
+    }
+    .gallery {
+        width: 96%
+    }
+    .galleryPicture {
+        width: 100%
+    }
+}
+
+@media screen and (max-width: 498px) {
+    .prevNextCard, .indivPageName {
+        font-size: 20px
+    }
+}
