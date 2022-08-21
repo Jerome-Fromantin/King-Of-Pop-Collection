@@ -33,6 +33,7 @@ Avant GitHub :
 - [x] Remplissage de la première page avec deux composants de tri, un composant de pagination et l'affichage des cartes en fonction des tris et de la pagination.
 - [x] Création et remplissage de la page individuelle de chaque pièce de collection.
 - [x] Amélioration des infos de chaque pièce de collection dans sa propre page, carte 1 à 40.
+
 Avec GitHub :
 - [x] Création du repository.
 - [x] Upload de tous les fichiers existants à ce jour.
