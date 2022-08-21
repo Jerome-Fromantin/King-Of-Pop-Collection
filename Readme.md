@@ -19,20 +19,33 @@ De plus, chacune de ces pièces possède sa propre page dans laquelle se trouve 
 ## Technologies utilisées
 HTML5 - CSS3 - JavaScript - React - GitHub
 
-## Première et dernière mise à jour
-Lundi 15 août 2022
-- Création du repository.
-- Upload de tous les fichiers existants à ce jour.
-- Mise en ligne sur Netlify.
+## Dernière mise à jour
+Dimanche 21 août 2022
+- Mise à jour des cartes 41 à 50.
 
-## Travaux à réaliser
-- [ ] Page "Disques et cassettes" : Amélioration des infos de chaque pièce de collection dans sa propre page, carte 41 à 253.
+## Travaux réalisés ou à réaliser
+Avant GitHub :
+- [x] Création de l'application React utilisant React Router.
+- [x] Création du layout avec "Banner" et "Footer".
+- [x] Création de la page d'accueil avec l'accès à 6 pages différentes.
+- [x] Création de 7 pages (vides) : "Disques et cassettes", "Vidéos", "Livres", "Revues et magazines", "Calendriers", "Divers" et "Page 404".
+- [x] Création et remplissage de la base de données pour la première page, "Disques et cassettes", sous la forme d'un fichier JSON.
+- [x] Remplissage de la première page avec deux composants de tri, un composant de pagination et l'affichage des cartes en fonction des tris et de la pagination.
+- [x] Création et remplissage de la page individuelle de chaque pièce de collection.
+- [x] Amélioration des infos de chaque pièce de collection dans sa propre page, carte 1 à 40.
+Avec GitHub :
+- [x] Création du repository.
+- [x] Upload de tous les fichiers existants à ce jour.
+- [x] Mise en ligne sur Netlify.
+- [x] Page "Disques et cassettes" : Amélioration des infos dans chaque page individuelle, carte 41 à 50.
+- [ ] Page "Disques et cassettes" : Amélioration des infos dans chaque page individuelle, carte 41 à 253.
 - [ ] Page "Disques et cassettes" : Ajout des images correspondant à chaque pièce, sur toutes les cartes.
 - [ ] Remplissage similaire de la page "Vidéos".
 - [ ] Remplissage similaire de la page "Livres".
 - [ ] Remplissage similaire de la page "Revues et magazines".
 - [ ] Remplissage similaire de la page "Calendriers".
 - [ ] Remplissage similaire de la page "Divers".
+- [ ] Remplissage de la page "404".
 - [ ] Ajouter une page de mentions légales.
 - [ ] Eventuellement, régler des problèmes graphiques non connus actuellement.
 - [ ] Eventuellement, ajouter une ou des fonctionnalités avec JavaScript.
