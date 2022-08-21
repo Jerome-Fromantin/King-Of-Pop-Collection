@@ -3835,13 +3835,16 @@
       "name": "Ease On Down The Road",
       "singer": "Diana Ross - Michael Jackson",
       "album": "Jeune Michael",
-      "year": "1978",
+      "year": "1984",
       "contentYear": "1978",
       "reference": "25 9591-7",
       "contentType": "single",
       "originCountry": "France",
       "maker": "MCA Records - Motown Record Company",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une réédition du single publié originellement le 6 novembre 1978. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -3850,7 +3853,8 @@
             "songTitle": "Ease On Down The Road"
          },
          {
-            "songTitle": "Poppy Girls (instrumental)"
+            "songTitle": "Poppy Girls (instrumental)",
+            "songSinger": "Quincy Jones"
          }
       ]
    },
@@ -3865,9 +3869,11 @@
       "contentYear": "1978",
       "reference": "CDEPC 32365",
       "contentType": "album",
-      "originCountry": "Europe",
+      "originCountry": "Autriche",
       "maker": "CBS - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition du troisième album des Jacksons, publié originellement le 17 décembre 1978."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -3905,13 +3911,15 @@
       "name": "Shake Your Body (Down To The Ground)",
       "singer": "The Jacksons",
       "album": "Jacksons",
-      "year": "1978",
+      "year": "1979",
       "contentYear": "1978",
       "reference": "EPC 7124",
       "contentType": "single",
       "originCountry": "France",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'édition originale du single publié en 1979. Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -3931,13 +3939,16 @@
       "name": "Off The Wall",
       "singer": "Michael Jackson",
       "album": "Off The Wall",
-      "year": "1979",
+      "year": "1986",
       "contentYear": "1979",
       "reference": "450086 1",
       "contentType": "album",
       "originCountry": "Angleterre",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 4 chansons ; Side 2 : 6 chansons.",
+      "description": [
+         "Ce vinyle est une réédition du premier album solo de Michael Jackson pour Epic, publié originellement le 10",
+         " août 1979. Face 1 : 4 chansons ; Face 2 : 6 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -3987,7 +3998,10 @@
       "contentType": "album",
       "originCountry": "Angleterre",
       "maker": "CBS - Epic",
-      "description": "Picture Disc - Side 1 : 4 chansons ; Side 2 : 6 chansons.",
+      "description": [
+         "Ce vinyle \"Picture Disc\" est une réédition du premier album solo de Michael Jackson pour Epic, publié",
+         " originellement le 10 août 1979. Face 1 : 4 chansons ; Face 2 : 6 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4033,11 +4047,14 @@
       "album": "Off The Wall",
       "year": "Inconnue",
       "contentYear": "1979",
-      "reference": "83468",
+      "reference": "CD 83468",
       "contentType": "album",
-      "originCountry": "Europe",
+      "originCountry": "Autriche",
       "maker": "Sony Music Entertainment - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition du premier album solo de Michael Jackson pour Epic, publié originellement le 10",
+         " août 1979."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4087,7 +4104,11 @@
       "contentType": "album",
       "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une édition spéciale du premier album solo de Michael Jackson pour Epic, publié originellement le",
+         " 10 août 1979. Cette édition contient en bonus les démos originales de 2 chansons ainsi que des extraits",
+         " d'interviews de Quincy Jones et de Rod Temperton sur la création de l'album original."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4184,13 +4205,16 @@
       "name": "Off The Wall",
       "singer": "Michael Jackson",
       "album": "Off The Wall",
-      "year": "1979",
+      "year": "Inconnue",
       "contentYear": "1979",
       "reference": "450086 4",
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "Sony Music Entertainment - Epic",
-      "description": "Side 1 : 4 chansons ; Side 2 : 6 chansons.",
+      "description": [
+         "Cette cassette est une réédition du premier album solo de Michael Jackson pour Epic, publié originellement le",
+         " 10 août 1979. Face 1 : 4 chansons ; Face 2 : 6 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4240,7 +4264,9 @@
       "contentType": "single",
       "originCountry": "France",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'édition originale du single publié en 1979. Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4266,7 +4292,10 @@
       "contentType": "single",
       "originCountry": "Australie",
       "maker": "CBS - Epic",
-      "description": "Promotion Only Not For Sale - Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition promotionnelle du single publié en 1979. Il contient la mention \"PROMOTION ONLY",
+         " NOT FOR SALE\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
