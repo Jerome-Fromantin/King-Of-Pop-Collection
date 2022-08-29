@@ -4321,7 +4321,10 @@
       "contentType": "single",
       "originCountry": "Royaume-Uni (UK)",
       "maker": "Sony Music Entertainment",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une réédition du single publié originellement le 28 juillet 1979. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4347,7 +4350,9 @@
       "contentType": "album",
       "originCountry": "Autriche",
       "maker": "CBS - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition de l'album des Jacksons, publié originellement le 18 octobre 1980."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4394,7 +4399,9 @@
       "contentType": "album",
       "originCountry": "Autriche",
       "maker": "CBS - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition de l'album des Jacksons, publié originellement en novembre 1981."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4418,7 +4425,7 @@
             "songTitle": "She's Out Of My Life"
          },
          {
-            "songTitle": "Movie and rap including excerpts of..."
+            "songTitle": "Movie and rap, including excerpts of : I Want You Back/Never Can Say Goodbye/Got To Be There"
          },
          {
             "songTitle": "Medley : I Want You Back/ABC/The Love You Save"
@@ -4454,9 +4461,13 @@
       "contentYear": "1982",
       "reference": "85930",
       "contentType": "album",
-      "originCountry": "Angleterre",
+      "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 4 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Ce vinyle est une réédition du second album solo de Michael Jackson (pour Epic), publié originellement le 30",
+         " novembre 1982. Sur la pochette se trouve un autocollant sur lequel est écrit \"WORLD'S BEST SELLING ALBUM",
+         " contains 7 HIT SINGLES\". Face 1 : 4 chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4498,13 +4509,17 @@
       "name": "Thriller",
       "singer": "Michael Jackson",
       "album": "Thriller",
-      "year": "1982",
+      "year": "Inconnue",
       "contentYear": "1982",
       "reference": "85930",
       "contentType": "album",
-      "originCountry": "Pays-Bas (Holland)",
+      "originCountry": "Angleterre",
       "maker": "CBS - Epic",
-      "description": "Autocollant : World's best selling album contains 7 hit singles - Dos de pochette différent - Side 1 : 4 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Ce vinyle est une réédition (probablement de 1986) du second album solo de Michael Jackson (pour Epic),",
+         " publié originellement le 30 novembre 1982. Le dos de pochette est différent de la réédition précédente.",
+         " Face 1 : 4 chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
