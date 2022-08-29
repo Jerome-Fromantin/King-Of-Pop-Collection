@@ -1,9 +1,12 @@
-import React, { useEffect, useState } from 'react'
+import React, { lazy, Suspense, useEffect, useState } from 'react'
 import { Link } from 'react-router-dom'
+import { useNavigate, useParams } from 'react-router'
 import { getDisque } from '../services/servicesDisques'
 import '../styles/disque.css'
-import Gallery from '../composants/Gallery'
-import { useNavigate, useParams } from 'react-router'
+import Loader from '../composants/Loader'
+
+// Lazy loading
+const Gallery = lazy(() => import('../composants/Gallery'))
 
 function Record(props) {
     // Cette fonction permet d'ouvrir la page à 370 px du haut à chaque nouveau rendu.
@@ -42,7 +45,9 @@ function Record(props) {
     }
 
     return (<div>
-        {<Gallery photos={morePhotos}/>}
+        <Suspense fallback={<Loader/>}>
+            <Gallery photos={morePhotos}/>
+        </Suspense>
         <div className="indivPageTitleDiv">
             <Link to={"/disques/" + getPreviousCard()} className="prevNextCard">Carte<br/>précédente</Link>
             <h2 className="indivPageH2">

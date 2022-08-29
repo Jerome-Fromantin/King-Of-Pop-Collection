@@ -108,6 +108,27 @@ footer {
     margin-top: 0
 }
 /* Fin du sous-composant "Footer". */
+/* Fin du composant "Layout". */
+
+/* Pour le composant "Loader". */
+.loaderDiv {
+    text-align: center
+}
+
+.loader {
+    display: inline-block;
+    background: lightgray;
+    color: darkgoldenrod;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding: 0 10px;
+    border: 4px darkgoldenrod solid;
+    border-radius: 10px;
+    margin: 20px auto
+}
+/* Fin du composant "Loader". */
+
 
 /* MEDIA QUERIES */
 /* Sur les écrans de 863px ou moins. */

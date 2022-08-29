@@ -1,12 +1,15 @@
-import { useState, useEffect, useMemo } from 'react'
+import React, { lazy, Suspense, useState, useEffect, useMemo } from 'react'
 import { Link } from 'react-router-dom'
 import { getDisques } from '../services/servicesDisques'
 import '../styles/disques.css'
 import '../styles/pagination.css'
-import Present from '../composants/DisquesPresent'
-import Albums from '../composants/Albums'
-import Supports from '../composants/Supports'
-import Pagination from '../composants/Pagination'
+import Loader from '../composants/Loader'
+
+// Lazy loading
+const Present = lazy(() => import('../composants/DisquesPresent'))
+const Albums = lazy(() => import('../composants/Albums'))
+const Supports = lazy(() => import('../composants/Supports'))
+const Pagination = lazy(() => import('../composants/Pagination'))
 
 function RecordsList() {
     // Cette fonction permet d'ouvrir la page à 370 px du haut à chaque nouveau rendu.
@@ -123,20 +126,26 @@ function RecordsList() {
         if (albName.length !== 1) {
             if (supName.length !== 1) {
                 return (
-                    <Pagination currentPage={currentPage} totalCount={disques.length}
-                    pageSize={pageSize} onPageChange={page => setCurrentPage(page)}/>
+                    <Suspense fallback={<Loader/>}>
+                        <Pagination currentPage={currentPage} totalCount={disques.length}
+                        pageSize={pageSize} onPageChange={page => setCurrentPage(page)}/>
+                    </Suspense>
                 )
             }
             return (
-                <Pagination currentPage={currentPage}
-                totalCount={disques.filter(({support}) => !activeSupport || activeSupport === support).length}
-                pageSize={pageSize} onPageChange={page => setCurrentPage(page)}/>
+                <Suspense fallback={<Loader/>}>
+                    <Pagination currentPage={currentPage}
+                    totalCount={disques.filter(({support}) => !activeSupport || activeSupport === support).length}
+                    pageSize={pageSize} onPageChange={page => setCurrentPage(page)}/>
+                </Suspense>
             )
         }
         return (
-            <Pagination currentPage={currentPage}
-            totalCount={disques.filter(({album}) => !activeAlbum || activeAlbum === album).length}
-            pageSize={pageSize} onPageChange={page => setCurrentPage(page)}/>
+            <Suspense fallback={<Loader/>}>
+                <Pagination currentPage={currentPage}
+                totalCount={disques.filter(({album}) => !activeAlbum || activeAlbum === album).length}
+                pageSize={pageSize} onPageChange={page => setCurrentPage(page)}/>
+            </Suspense>
         )
     }
 
@@ -149,6 +158,8 @@ function RecordsList() {
                     !activeAlbum || activeAlbum === album ? (
                     <div key={id} className="card">
                         <div className="photo"><img src={photo} alt={name} className="pic"/></div>
+                        {/* Pour un import provisoire en local de l'image ci-dessus,
+                        remplacer src={photo} par src={require("../assets/images/disques/Nom-img.jpg")} */}
                         <div className="cardId">{id}</div>
                         <p className="name">{name}</p>
                         <div><span className="info">Support :</span> {support}</div>
@@ -191,7 +202,10 @@ function RecordsList() {
     }
 
     return (<div>
-        <Present/>
+        {/* "Suspense" (de React) indique ce qui doit être affiché pendant le chargement du composant. */}
+        <Suspense fallback={<Loader/>}>
+            <Present/>
+        </Suspense>
         {/*
         <Albums/> affiche la liste des albums ou types d'albums.
         <Supports/> affiche la liste des supports.
@@ -200,8 +214,10 @@ function RecordsList() {
         {getCards()} affiche la liste des cartes triées selon la catégorie, avec certaines de leurs propriétés.
         */}
         <div>
-            <Albums albums={albums} setActiveAlbum={openActiveAlbum}/>
-            <Supports supports={supports} setActiveSupport={openActiveSupport}/>
+            <Suspense fallback={<Loader/>}>
+                <Albums albums={albums} setActiveAlbum={openActiveAlbum}/>
+                <Supports supports={supports} setActiveSupport={openActiveSupport}/>
+            </Suspense>
             <div className="list">
                 {getNameAndCount()}
                 {getPagination()}
