@@ -19,10 +19,9 @@ const Accueil = () => {
             <p>De plus, chacune de ces pièces possède sa propre page dans laquelle se trouve de nombreuses informations
             complémentaires, parmi lesquelles la liste des chansons disponibles.</p>
             <p>DERNIÈRE MISE À JOUR<br/>*****
-            <br/>Mise en place du "lazy loading" dans l'application avec l'ajout d'un loader.
-            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 51 à 55.</p>
+            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 56 à 70.</p>
             <p>PROCHAINES MISES À JOUR<br/>*****
-            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 56 à 253.
+            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 71 à 253.
             <br/>Ajout des images correspondantes&nbsp;: Toutes les cartes.</p>
         </div>
         <div className="accueilCard">

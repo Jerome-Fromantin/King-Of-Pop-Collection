@@ -7,7 +7,7 @@
       "supportType": "normal",
       "_comment-supportType1": "Propriété spécifique. Valeurs possibles : 33t, double 33t, triple 33t, 33t single,",
       "_comment-supportType2": "double 33t single, gd 45t ou pt 45t pour support Vinyle ;",
-      "_comment-supportType3": "normal, single, mini-CD, CD-DVD, Shaped, coffret xCD, coffret CD-VHS,",
+      "_comment-supportType3": "normal, single, mini-CD, coffret CD-DVD, Shaped, coffret xCD, coffret CD-VHS,",
       "_comment-supportType4": "coffret 2mini-CD ou coffret 2K7 pour les autres.",
       "name": "Big Boy",
       "_comment-name": "Nom ou titre de l'objet.",
@@ -1126,7 +1126,7 @@
       "contentYear": "1973",
       "reference": "TMGT 1342",
       "contentType": "single",
-      "originCountry": "Royaume-Uni (UK)",
+      "originCountry": "Royaume-Uni",
       "maker": "Motown Record Corporation",
       "description": [
          "Ce vinyle est le premier single de l'album \"Farewell My Summer Love\", publié le 8 mai 1984.",
@@ -2065,7 +2065,7 @@
       "contentYear": "1969-1986",
       "reference": "SMR 745",
       "contentType": "compilation",
-      "originCountry": "Royaume-Uni (UK)",
+      "originCountry": "Royaume-Uni",
       "maker": "Stylus Music",
       "description": [
          "Ce double vinyle est l'édition originale d'une compilation de titres de Michael Jackson et des Jackson 5",
@@ -2290,7 +2290,7 @@
       "contentYear": "1969-1986",
       "reference": "SMC 745 A - SMC 745 B",
       "contentType": "compilation",
-      "originCountry": "Royaume-Uni (UK)",
+      "originCountry": "Royaume-Uni",
       "maker": "Stylus Music",
       "description": [
          "Ce coffret \"2 cassettes\" est l'édition originale d'une compilation de titres de Michael Jackson et des",
@@ -4319,7 +4319,7 @@
       "contentYear": "1979",
       "reference": "VJAY1",
       "contentType": "single",
-      "originCountry": "Royaume-Uni (UK)",
+      "originCountry": "Royaume-Uni",
       "maker": "Sony Music Entertainment",
       "description": [
          "Ce vinyle est une réédition du single publié originellement le 28 juillet 1979. Face 1 : 1 chanson ; Face 2 :",
@@ -4565,9 +4565,12 @@
       "contentYear": "1982",
       "reference": "85930",
       "contentType": "album",
-      "originCountry": "USA",
+      "originCountry": "Autriche",
       "maker": "Sony Music Entertainment - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition du second album solo de Michael Jackson (pour Epic), publié originellement le 30",
+         " novembre 1982."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4615,7 +4618,12 @@
       "contentType": "album",
       "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une édition spéciale du second album solo de Michael Jackson (pour Epic), publié originellement le",
+         " 30 novembre 1982. Cette édition contient en bonus la démo originale de \"Billie Jean\" et d'autres titres",
+         " inédits ou rares ainsi que des extraits d'interviews de Quincy Jones et de Rod Temperton sur la création de",
+         " l'album original."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4729,7 +4737,10 @@
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "Sony Music Entertainment - Epic",
-      "description": "Side 1 : 4 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Cette cassette est une réédition du second album solo de Michael Jackson (pour Epic), publié originellement",
+         " le 30 novembre 1982. Face 1 : 4 chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4771,13 +4782,17 @@
       "name": "Billie Jean",
       "singer": "Michael Jackson",
       "album": "Thriller",
-      "year": "1982",
+      "year": "1983",
       "contentYear": "1979-1982",
       "reference": "A-3084",
       "contentType": "single",
       "originCountry": "France",
       "maker": "CBS - Epic",
-      "description": "\"Billie Jean\" écrite \"Billy Jean\" en dos de pochette - Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions françaises du single publié originellement le 2 janvier 1983. On peut noter",
+         " la faute d'orthographe en dos de pochette sur \"Billie Jean\", écrite \"Billy Jean\". Face 1 : 1 chanson ;",
+         " Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4799,13 +4814,16 @@
       "name": "Beat It",
       "singer": "Michael Jackson",
       "album": "Thriller",
-      "year": "1982",
+      "year": "1983",
       "contentYear": "1979-1982",
       "reference": "A-3184",
       "contentType": "single",
       "originCountry": "France",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions françaises du single publié originellement le 14 février 1983. Face 1 : 1",
+         " chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4827,13 +4845,16 @@
       "name": "Wanna Be Startin' Somethin'",
       "singer": "Michael Jackson",
       "album": "Thriller",
-      "year": "1982",
-      "contentYear": "1979-1982",
+      "year": "1983",
+      "contentYear": "1981-1982",
       "reference": "A3427",
       "contentType": "single",
       "originCountry": "France",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions françaises du single publié originellement le 8 mai 1983. Face 1 : 1 chanson",
+         " ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4844,7 +4865,7 @@
          },
          {
             "songTitle": "Rock With You",
-            "songYear": 1979
+            "songYear": 1981
          }
       ]
    },
@@ -4852,7 +4873,36 @@
       "id": "62",
       "support": "Vinyle",
       "supportType": "pt 45t",
-      "name": "Thriller",
+      "name": "P.Y.T. (Pretty Young Thing)",
+      "singer": "Michael Jackson",
+      "album": "Thriller",
+      "year": "1984",
+      "contentYear": "1982",
+      "reference": "A-4270",
+      "contentType": "single",
+      "originCountry": "France",
+      "maker": "CBS - Epic",
+      "description": [
+         "Ce vinyle est l'une des éditions françaises du single publié originellement le 19 septembre 1983. Face 1 : 1",
+         " chanson ; Face 2 : 1 chanson."
+      ],
+      "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
+      "morePhotos": [
+      ],
+      "songContent": [
+         {
+            "songTitle": "P.Y.T. (Pretty Young Thing)"
+         },
+         {
+            "songTitle": "Human Nature"
+         }
+      ]
+   },
+   {
+      "id": "63",
+      "support": "Vinyle",
+      "supportType": "pt 45t",
+      "name": "Thriller (Special edit)",
       "singer": "Michael Jackson - The Jacksons",
       "album": "Thriller",
       "year": "1983",
@@ -4861,7 +4911,10 @@
       "contentType": "single",
       "originCountry": "France",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions françaises du single publié originellement le 5 novembre 1983. Face 1 : 1",
+         " chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4879,7 +4932,7 @@
       ]
    },
    {
-      "id": "63",
+      "id": "64",
       "support": "Vinyle",
       "supportType": "gd 45t",
       "name": "Thriller",
@@ -4891,7 +4944,12 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 2 chansons.",
+      "description": [
+         "Ce vinyle est l'une des éditions du single publié originellement le 5 novembre 1983. On peut noter que les",
+         " titres \"Thriller (Long version)\" et \"Thriller (Special edit)\" du dos de pochette sont nommés",
+         " \"Thriller\" et \"Thriller (Remixed short version)\" sur le disque lui-même. Face 1 : 1 chanson ; Face 2 :",
+         " 2 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4912,32 +4970,6 @@
       ]
    },
    {
-      "id": "64",
-      "support": "Vinyle",
-      "supportType": "pt 45t",
-      "name": "P.Y.T. (Pretty Young Thing)",
-      "singer": "Michael Jackson",
-      "album": "Thriller",
-      "year": "1984",
-      "contentYear": "1982",
-      "reference": "A-4270",
-      "contentType": "single",
-      "originCountry": "France",
-      "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
-      "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
-      "morePhotos": [
-      ],
-      "songContent": [
-         {
-            "songTitle": "P.Y.T. (Pretty Young Thing)"
-         },
-         {
-            "songTitle": "Human Nature"
-         }
-      ]
-   },
-   {
       "id": "65",
       "support": "CD",
       "supportType": "normal",
@@ -4950,7 +4982,9 @@
       "contentType": "compilation",
       "originCountry": "Australie",
       "maker": "CBS - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD publié le 5 décembre 1988 reprend 5 des chansons de \"Thriller\" sorties en single."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -4977,15 +5011,18 @@
       "support": "CD",
       "supportType": "normal",
       "name": "Great Cola Commercials 2",
-      "singer": "Michael Jackson et autres artistes",
+      "singer": "Michael Jackson - Artistes divers",
       "album": "Participation",
       "year": "1996",
       "contentYear": "1966-1985",
       "reference": "VOX 2",
       "contentType": "compilation",
-      "originCountry": "USA",
+      "originCountry": "Royaume-Uni",
       "maker": "Vox Records",
-      "description": "65 chansons différentes.",
+      "description": [
+         "Ce CD publié le 16 août 1996 contient 65 titres, les 2 premiers étant \"The Pepsi Generation\" (version",
+         " longue et version courte) interprétés par Michael Jackson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5002,7 +5039,6 @@
          },
          {
             "songTitle": "Autres titres",
-            "songYear": "19XX",
             "songSinger": "Artistes divers"
          }
       ]
@@ -5010,7 +5046,7 @@
    {
       "id": "67",
       "support": "CD",
-      "supportType": "CD-DVD",
+      "supportType": "coffret CD-DVD",
       "name": "Thriller 25",
       "singer": "Michael Jackson",
       "album": "Thriller",
@@ -5020,41 +5056,54 @@
       "contentType": "album",
       "originCountry": "Europe (UE)",
       "maker": "MJJ Productions - Epic",
-      "description": "CD : 16 chansons ; DVD (The Short Films) : 4 chansons.",
+      "description": [
+         "Ce coffret contient un CD avec l'album original plus plusieurs titres inédits et un DVD avec des clips et un",
+         " extrait de la cérémonie \"Motown 25\". CD : 16 chansons ; DVD (The Short Films) : 4 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "Wanna Be Startin' Somethin'"
+            "songTitle": "Wanna Be Startin' Somethin'",
+            "songYear": 1982
          },
          {
-            "songTitle": "Baby Be Mine"
+            "songTitle": "Baby Be Mine",
+            "songYear": 1982
          },
          {
             "songTitle": "The Girl Is Mine",
+            "songYear": 1982,
             "songSinger": "Michael Jackson & Paul McCartney"
          },
          {
-            "songTitle": "Thriller"
+            "songTitle": "Thriller",
+            "songYear": 1982
          },
          {
-            "songTitle": "Beat It"
+            "songTitle": "Beat It",
+            "songYear": 1982
          },
          {
-            "songTitle": "Billie Jean"
+            "songTitle": "Billie Jean",
+            "songYear": 1982
          },
          {
-            "songTitle": "Human Nature"
+            "songTitle": "Human Nature",
+            "songYear": 1982
          },
          {
-            "songTitle": "P.Y.T. (Pretty Young Thing)"
+            "songTitle": "P.Y.T. (Pretty Young Thing)",
+            "songYear": 1982
          },
          {
-            "songTitle": "The Lady In My Life"
+            "songTitle": "The Lady In My Life",
+            "songYear": 1982
          },
          {
             "songTitle": "Vincent Price Excerpt From \"Thriller\" Voice-Over Session",
+            "songYear": 1982,
             "songSinger": "Vincent Price"
          },
          {
@@ -5083,16 +5132,20 @@
             "songSinger": "Michael Jackson & Kanye West"
          },
          {
-            "songTitle": "For All Time"
+            "songTitle": "For All Time",
+            "songYear": 1982
          },
          {
-            "songTitle": "Billie Jean"
+            "songTitle": "Billie Jean",
+            "songYear": 1983
          },
          {
-            "songTitle": "Beat It"
+            "songTitle": "Beat It",
+            "songYear": 1983
          },
          {
-            "songTitle": "Thriller"
+            "songTitle": "Thriller",
+            "songYear": 1983
          },
          {
             "songTitle": "Billie Jean [From Motown 25]",
@@ -5113,7 +5166,9 @@
       "contentType": "single",
       "originCountry": "Europe (UE)",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est l'une des éditions du single publié en 2008."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5139,7 +5194,9 @@
       "contentType": "single",
       "originCountry": "Europe (UE)",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est l'une des éditions \"maxi\" du single publié en 2008."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5166,9 +5223,13 @@
       "contentYear": "1982",
       "reference": "MCA 70000",
       "contentType": "album",
-      "originCountry": "USA",
+      "originCountry": "Canada",
       "maker": "MCA Records",
-      "description": "Le disque le plus rare ! - Side 1 : 2 chansons ; Side 2 : 2 chansons.",
+      "description": [
+         "Ce vinyle est probablement le disque le plus rare de ma collection. Il contient 2 versions d'une chanson (en",
+         " ouverture et fermeture du disque) et la narration par Michael Jackson de l'histoire du film. Le coffret",
+         " contient aussi un livret avec la transcription de la narration et un poster avec E.T. et Michael Jackson.",
+         " Face 1 : 3 titres ; Face 2 : 5 titres."],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5177,10 +5238,22 @@
             "songTitle": "Someone In The Dark (Opening version)"
          },
          {
-            "songTitle": "Narration de l'histoire"
+            "songTitle": "Landing [Narration de l'histoire]"
          },
          {
-            "songTitle": "Narration de l'histoire"
+            "songTitle": "Discovery [Narration de l'histoire]"
+         },
+         {
+            "songTitle": "Home [Narration de l'histoire]"
+         },
+         {
+            "songTitle": "Intrusion [Narration de l'histoire]"
+         },
+         {
+            "songTitle": "Chase [Narration de l'histoire]"
+         },
+         {
+            "songTitle": "Good-Bye [Narration de l'histoire]"
          },
          {
             "songTitle": "Someone In The Dark (Closing version)"
