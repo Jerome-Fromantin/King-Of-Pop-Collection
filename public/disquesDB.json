@@ -5267,27 +5267,62 @@
       "name": "Pipes Of Peace",
       "singer": "Paul McCartney",
       "album": "Participation",
-      "year": "1983",
+      "year": "1989",
       "contentYear": "1983",
       "reference": "CDP 7 46018 2",
       "contentType": "album",
       "originCountry": "USA",
       "maker": "MPL Communications",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition de l'album publié originellement le 17 octobre 1983. Cet album contient deux duos",
+         " avec Michael Jackson, \"Say Say Say\" et \"The Man\"."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
+            "songTitle": "Pipes Of Peace",
+            "songSinger": "Paul McCartney"
+         },
+         {
             "songTitle": "Say Say Say",
             "songSinger": "Paul McCartney & Michael Jackson"
          },
          {
-            "songTitle": "The Man",
+            "songTitle": "The Other Me",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "Keep Under Cover",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "So Bad",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "The Man (featuring Michael Jackson)",
             "songSinger": "Paul McCartney & Michael Jackson"
          },
          {
-            "songTitle": "Autres titres",
+            "songTitle": "Sweetest Little Show",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "Average Person",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "Hey Hey",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "Tug Of Peace",
+            "songSinger": "Paul McCartney"
+         },
+         {
+            "songTitle": "Through Our Love",
             "songSinger": "Paul McCartney"
          }
       ]
@@ -5305,7 +5340,10 @@
       "contentType": "single",
       "originCountry": "France",
       "maker": "MPL Communications",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions françaises du single publié originellement le 3 octobre 1983. Face 1 : 1",
+         " chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5333,17 +5371,49 @@
       "contentType": "album",
       "originCountry": "RFA",
       "maker": "Arista Records",
-      "description": "Side 1 : 4 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Ce vinyle est l'une des éditions allemandes de l'album publié originellement le 14 avril 1984. Cet album",
+         " contient un duo avec Michael Jackson, \"Tell Me I'm Not Dreamin' (Too Good To Be True)\". Face 1 : 4",
+         " chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
+            "songTitle": "Dynamite",
+            "songSinger": "Jermaine Jackson"
+         },
+         {
+            "songTitle": "Sweetest Sweetest",
+            "songSinger": "Jermaine Jackson"
+         },
+         {
             "songTitle": "Tell Me I'm Not Dreamin' (Too Good To Be True)",
             "songSinger": "Jermaine Jackson & Michael Jackson"
          },
          {
-            "songTitle": "Autres titres",
+            "songTitle": "Escape From The Planet Of The Ant Men",
+            "songSinger": "Jermaine Jackson & The Jacksons"
+         },
+         {
+            "songTitle": "Come To Me (One Way Or Another)",
+            "songSinger": "Jermaine Jackson"
+         },
+         {
+            "songTitle": "Do What You Do",
+            "songSinger": "Jermaine Jackson"
+         },
+         {
+            "songTitle": "Take Good Care Of My Heart",
+            "songSinger": "Jermaine Jackson & Whitney Houston"
+         },
+         {
+            "songTitle": "Some Things Are Private",
+            "songSinger": "Jermaine Jackson"
+         },
+         {
+            "songTitle": "Oh Mother",
             "songSinger": "Jermaine Jackson"
          }
       ]
@@ -5361,7 +5431,10 @@
       "contentType": "single",
       "originCountry": "RFA",
       "maker": "Arista Records",
-      "description": "Side 1 : 1 chanson ; Side 2 : 2 chansons.",
+      "description": [
+         "Ce vinyle est l'une des éditions allemandes du single publié en 1984. Ce single contient le duo avec Michael",
+         " Jackson en face 2. Face 1 : 1 chanson ; Face 2 : 2 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5393,7 +5466,10 @@
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Pochette avec colombe. - Side 1 : 4 chansons ; Side 2 : 4 chansons.",
+      "description": [
+         "Ce vinyle est l'édition \"avec colombe\" de l'album publié originellement le 6 juillet 1984. Face 1 : 4",
+         " chansons ; Face 2 : 4 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5438,7 +5514,10 @@
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Pochette sans colombe. - Side 1 : 4 chansons ; Side 2 : 4 chansons.",
+      "description": [
+         "Ce vinyle est l'une des éditions \"sans colombe\" de l'album publié originellement le 6 juillet 1984. Face",
+         " 1 : 4 chansons ; Face 2 : 4 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5477,13 +5556,15 @@
       "name": "Victory",
       "singer": "The Jacksons",
       "album": "Jacksons",
-      "year": "1984",
+      "year": "1989",
       "contentYear": "1984",
       "reference": "450450 2",
       "contentType": "album",
       "originCountry": "Autriche",
       "maker": "CBS - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition de l'album publié originellement le 6 juillet 1984."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5528,7 +5609,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions du single publié originellement le 18 juin 1984. Face 1 : 1 chanson ;",
+         " Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5558,13 +5642,16 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions du single publié originellement le 18 juin 1984. La version en face 1 est",
+         " précisée comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "State Of Shock (Special version)"
+            "songTitle": "State Of Shock"
          },
          {
             "songTitle": "State Of Shock (Instrumental)"
@@ -5584,7 +5671,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est l'une des éditions du single publié originellement le 30 septembre 1984. La version en face 1",
+         " est précisée comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
