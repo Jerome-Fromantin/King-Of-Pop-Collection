@@ -135,6 +135,17 @@
     margin-bottom: 10px
 }
 
+.songYear, .songSinger {
+    color: darkgoldenrod;
+    font-size: 24px;
+    font-weight: bold
+}
+.songSinger {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 18px;
+    font-style: italic
+}
+
 /* MEDIA QUERIES */
 /* Sur les écrans de 899px ou moins. */
 @media screen and (max-width: 899px) {

@@ -78,24 +78,30 @@ function Record(props) {
                 {React.Children.toArray(songContent.map((item, id) => {
                     return id <= 8 ? item.songYear ? (
                     <div className="cardSongsParag">
-                        <span><span className="songsId">0{id + 1}/.</span> {item.songTitle} [{item.songYear}]</span>
-                        <span>{item.songSinger}</span>
+                        <span>
+                            <span className="songsId">0{id + 1}/.</span> {item.songTitle}
+                            <span className="songYear"> [{item.songYear}]</span>
+                        </span>
+                        <span className="songSinger">{item.songSinger}</span>
                     </div>
                     ) : (
                         <div className="cardSongsParag">
                             <span><span className="songsId">0{id + 1}/.</span> {item.songTitle}</span>
-                            <span>{item.songSinger}</span>
+                            <span className="songSinger">{item.songSinger}</span>
                         </div>
                         )
                     : item.songYear ? (
                     <div className="cardSongsParag">
-                        <span><span className="songsId">{id + 1}/.</span> {item.songTitle} [{item.songYear}]</span>
-                        <span>{item.songSinger}</span>
+                        <span>
+                            <span className="songsId">{id + 1}/.</span> {item.songTitle}
+                            <span className="songYear"> [{item.songYear}]</span>
+                        </span>
+                        <span className="songSinger">{item.songSinger}</span>
                     </div>
                     ) : (
                         <div className="cardSongsParag">
                             <span><span className="songsId">{id + 1}/.</span> {item.songTitle}</span>
-                            <span>{item.songSinger}</span>
+                            <span className="songSinger">{item.songSinger}</span>
                         </div>
                         )
                 }))}
