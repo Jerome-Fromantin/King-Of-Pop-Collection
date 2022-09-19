@@ -27,8 +27,9 @@
       "maker": "Jimco Records",
       "_comment-maker": "Nom du fabricant.",
       "description": [
-         "Cette première carte est un CD réservé principalement au marché japonais qui contient 24 titres enregistrés",
-         " en 1967 (Bonus Tracks de 14 à 24). Le livret inclut un texte descriptif de plusieurs pages en japonais."
+         "Cette première carte est un CD publié le 1er novembre 1993 et réservé principalement au marché japonais. Il",
+         " contient 24 titres enregistrés en 1967 (Bonus Tracks de 14 à 24). Le livret inclut un texte descriptif de",
+         " plusieurs pages en japonais."
       ],
       "_comment-description": "Description courte de l'objet.",
       "photo": "http://thermidor.xyz/King-of-Pop/disques/001.jpg",
@@ -128,14 +129,14 @@
       "originCountry": "USA",
       "maker": "Inverted Records",
       "description": [
-         "Le livret contient d'une part le certificat d'authenticité n°81350 et d'autre part le texte suivant :",
-         " \"In 1967, in Gary Indiana, a musical group of five boys caught the attention of Ben Brown. As president of",
-         " Steeltown Records, Ben was the first to realize the incredible talents of this unique family. With eight",
-         " year old Michael singing lead vocals, Steeltown Records signed \"The Jackson Five\" to their first",
-         " recording contract. Their first single, \"Big Boy\" released in 1968 in the greater Chicago area was a huge",
-         " regional success. The group was later signed to Motown. This Limited Edition of The Jackson Five's first",
-         " ever recording \"Big Boy\" & \"You've Changed\", has been digitally remastered for the historian, the",
-         " collector, and most importantly, the fan... ENJOY!\""
+         "Ce CD en édition limitée (ici avec le certificat d'authenticité n°81350) est une réédition du single publié",
+         " originellement en janvier 1968. Le livret contient le texte suivant : \"In 1967, in Gary Indiana, a musical",
+         " group of five boys caught the attention of Ben Brown. As president of Steeltown Records, Ben was the first",
+         " to realize the incredible talents of this unique family. With eight year old Michael singing lead vocals,",
+         " Steeltown Records signed \"The Jackson Five\" to their first recording contract. Their first single, \"Big",
+         " Boy\" released in 1968 in the greater Chicago area was a huge regional success. The group was later signed",
+         " to Motown. This Limited Edition of The Jackson Five's first ever recording \"Big Boy\" & \"You've Changed\",",
+         " has been digitally remastered for the historian, the collector, and most importantly, the fan... ENJOY!\""
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/002.jpg",
       "morePhotos": [
@@ -4619,7 +4620,7 @@
       "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
       "description": [
-         "Ce CD est une édition spéciale du second album solo de Michael Jackson (pour Epic), publié originellement le",
+         "Ce CD est une édition spéciale du second album solo de Michael Jackson pour Epic, publié originellement le",
          " 30 novembre 1982. Cette édition contient en bonus la démo originale de \"Billie Jean\" et d'autres titres",
          " inédits ou rares ainsi que des extraits d'interviews de Quincy Jones et de Rod Temperton sur la création de",
          " l'album original."
@@ -4789,9 +4790,9 @@
       "originCountry": "France",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions françaises du single publié originellement le 2 janvier 1983. On peut noter",
-         " la faute d'orthographe en dos de pochette sur \"Billie Jean\", écrite \"Billy Jean\". Face 1 : 1 chanson ;",
-         " Face 2 : 1 chanson."
+         "Ce vinyle est une édition française du single publié originellement le 2 janvier 1983. On peut noter la faute",
+         " d'orthographe en dos de pochette sur \"Billie Jean\", écrite \"Billy Jean\". Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -4821,8 +4822,8 @@
       "originCountry": "France",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions françaises du single publié originellement le 14 février 1983. Face 1 : 1",
-         " chanson ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition française du single publié originellement le 14 février 1983. Face 1 : 1 chanson ;",
+         " Face 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -4852,8 +4853,8 @@
       "originCountry": "France",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions françaises du single publié originellement le 8 mai 1983. Face 1 : 1 chanson",
-         " ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition française du single publié originellement le 8 mai 1983. Face 1 : 1 chanson ; Face",
+         " 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -4883,8 +4884,8 @@
       "originCountry": "France",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions françaises du single publié originellement le 19 septembre 1983. Face 1 : 1",
-         " chanson ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition française du single publié originellement le 19 septembre 1983. Face 1 : 1 chanson",
+         " ; Face 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -4912,8 +4913,8 @@
       "originCountry": "France",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions françaises du single publié originellement le 5 novembre 1983. Face 1 : 1",
-         " chanson ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition française du single publié originellement le 5 novembre 1983. Face 1 : 1 chanson ;",
+         " Face 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -4945,10 +4946,9 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions du single publié originellement le 5 novembre 1983. On peut noter que les",
-         " titres \"Thriller (Long version)\" et \"Thriller (Special edit)\" du dos de pochette sont nommés",
-         " \"Thriller\" et \"Thriller (Remixed short version)\" sur le disque lui-même. Face 1 : 1 chanson ; Face 2 :",
-         " 2 chansons."
+         "Ce vinyle est une édition du single publié originellement le 5 novembre 1983. On peut noter que les titres",
+         " \"Thriller (Long version)\" et \"Thriller (Special edit)\" du dos de pochette sont nommés \"Thriller\" et",
+         " \"Thriller (Remixed short version)\" sur le disque lui-même. Face 1 : 1 chanson ; Face 2 : 2 chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5167,7 +5167,7 @@
       "originCountry": "Europe (UE)",
       "maker": "MJJ Productions - Epic",
       "description": [
-         "Ce CD est l'une des éditions du single publié en 2008."
+         "Ce CD est une édition du single publié en 2008."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5195,7 +5195,7 @@
       "originCountry": "Europe (UE)",
       "maker": "MJJ Productions - Epic",
       "description": [
-         "Ce CD est l'une des éditions \"maxi\" du single publié en 2008."
+         "Ce CD est une édition \"maxi\" du single publié en 2008."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5341,8 +5341,8 @@
       "originCountry": "France",
       "maker": "MPL Communications",
       "description": [
-         "Ce vinyle est l'une des éditions françaises du single publié originellement le 3 octobre 1983. Face 1 : 1",
-         " chanson ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition française du single publié originellement le 3 octobre 1983. Face 1 : 1 chanson ;",
+         " Face 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5372,9 +5372,9 @@
       "originCountry": "RFA",
       "maker": "Arista Records",
       "description": [
-         "Ce vinyle est l'une des éditions allemandes de l'album publié originellement le 14 avril 1984. Cet album",
-         " contient un duo avec Michael Jackson, \"Tell Me I'm Not Dreamin' (Too Good To Be True)\". Face 1 : 4",
-         " chansons ; Face 2 : 5 chansons."
+         "Ce vinyle est une édition de l'album publié originellement le 14 avril 1984. Cet album contient un duo avec",
+         " Michael Jackson, \"Tell Me I'm Not Dreamin' (Too Good To Be True)\". Face 1 : 4 chansons ; Face 2 : 5",
+         " chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5432,8 +5432,8 @@
       "originCountry": "RFA",
       "maker": "Arista Records",
       "description": [
-         "Ce vinyle est l'une des éditions allemandes du single publié en 1984. Ce single contient le duo avec Michael",
-         " Jackson en face 2. Face 1 : 1 chanson ; Face 2 : 2 chansons."
+         "Ce vinyle est une édition du single publié en 1984. Ce single contient le duo avec Michael Jackson en face 2.",
+         " Face 1 : 1 chanson ; Face 2 : 2 chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5515,8 +5515,8 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions \"sans colombe\" de l'album publié originellement le 6 juillet 1984. Face",
-         " 1 : 4 chansons ; Face 2 : 4 chansons."
+         "Ce vinyle est une édition \"sans colombe\" de l'album publié originellement le 6 juillet 1984. Face 1 : 4",
+         " chansons ; Face 2 : 4 chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5610,8 +5610,8 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions du single publié originellement le 18 juin 1984. Face 1 : 1 chanson ;",
-         " Face 2 : 1 chanson."
+         "Ce vinyle est une édition du single publié originellement le 18 juin 1984. Face 1 : 1 chanson ; Face 2 : 1",
+         " chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5643,8 +5643,8 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions du single publié originellement le 18 juin 1984. La version en face 1 est",
-         " précisée comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition du single publié originellement le 18 juin 1984. La version en face 1 est précisée",
+         " comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5672,8 +5672,8 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
       "description": [
-         "Ce vinyle est l'une des éditions du single publié originellement le 30 septembre 1984. La version en face 1",
-         " est précisée comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+         "Ce vinyle est une édition du single publié originellement le 30 septembre 1984. La version en face 1 est",
+         " précisée comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5700,17 +5700,53 @@
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - USA For Africa",
-      "description": "Side 1 : 4 chansons ; Side 2 : 6 chansons.",
+      "description": [
+         "Ce vinyle est une édition de l'album publié originellement le 23 avril 1985. En plus de la chanson-titre, cet",
+         " album contient neuf titres inédits de plusieurs artistes. Face 1 : 4 chansons ; Face 2 : 6 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "We Are The World"
+            "songTitle": "We Are The World",
+            "songSinger": "USA For Africa"
          },
          {
-            "songTitle": "Autres titres",
-            "songSinger": "Artistes divers"
+            "songTitle": "If Only For The Moment, Girl",
+            "songSinger": "Steve Perry"
+         },
+         {
+            "songTitle": "Just A Little Closer",
+            "songSinger": "The Pointer Sisters"
+         },
+         {
+            "songTitle": "Trapped",
+            "songSinger": "Bruce Springsteen & The E Street Band"
+         },
+         {
+            "songTitle": "Tears Are Not Enough",
+            "songSinger": "Northern Lights (Canadian All Stars)"
+         },
+         {
+            "songTitle": "4 The Tears In Your Eyes",
+            "songSinger": "Prince & The Revolution"
+         },
+         {
+            "songTitle": "Good For Nothing",
+            "songSinger": "Chicago"
+         },
+         {
+            "songTitle": "Total Control",
+            "songSinger": "Tina Turner"
+         },
+         {
+            "songTitle": "A Little More Love",
+            "songSinger": "Kenny Rogers"
+         },
+         {
+            "songTitle": "Trouble In Paradise",
+            "songSinger": "Huey Lewis & The News"
          }
       ]
    },
@@ -5727,17 +5763,53 @@
       "contentType": "album",
       "originCountry": "USA",
       "maker": "PolyGram Records",
-      "description": "...",
+      "description": [
+         "Ce CD est une réédition de l'album publié originellement le 23 avril 1985. En plus de la chanson-titre, cet",
+         " album contient neuf titres inédits de plusieurs artistes."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "We Are The World"
+            "songTitle": "We Are The World",
+            "songSinger": "USA For Africa"
          },
          {
-            "songTitle": "Autres titres",
-            "songSinger": "Artistes divers"
+            "songTitle": "If Only For The Moment, Girl",
+            "songSinger": "Steve Perry"
+         },
+         {
+            "songTitle": "Just A Little Closer",
+            "songSinger": "The Pointer Sisters"
+         },
+         {
+            "songTitle": "Trapped",
+            "songSinger": "Bruce Springsteen & The E Street Band"
+         },
+         {
+            "songTitle": "Tears Are Not Enough",
+            "songSinger": "Northern Lights (Canadian All Stars)"
+         },
+         {
+            "songTitle": "4 The Tears In Your Eyes",
+            "songSinger": "Prince & The Revolution"
+         },
+         {
+            "songTitle": "Good For Nothing",
+            "songSinger": "Chicago"
+         },
+         {
+            "songTitle": "Total Control",
+            "songSinger": "Tina Turner"
+         },
+         {
+            "songTitle": "A Little More Love",
+            "songSinger": "Kenny Rogers"
+         },
+         {
+            "songTitle": "Trouble In Paradise",
+            "songSinger": "Huey Lewis & The News"
          }
       ]
    },
@@ -5752,9 +5824,12 @@
       "contentYear": "1984-1985",
       "reference": "7BEN-04839",
       "contentType": "single",
-      "originCountry": "USA",
+      "originCountry": "Canada",
       "maker": "Columbia",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 7 mars 1985. Face 1 : 1 chanson ; Face 2 : 1",
+         " chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5784,13 +5859,16 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "USA For Africa - CBS",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 7 mars 1985. La version en face 1 est précisée",
+         " comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "We Are The World (Special version)",
+            "songTitle": "We Are The World",
             "songYear": 1985,
             "songSinger": "USA For Africa"
          },
@@ -5805,7 +5883,7 @@
       "id": "85",
       "support": "Vinyle",
       "supportType": "33t single",
-      "name": "Time Out For The Burglar (12\" extended version)",
+      "name": "Time Out For The Burglar (12\" Extended Version)",
       "singer": "The Jacksons",
       "album": "Jacksons",
       "year": "1987",
@@ -5814,19 +5892,26 @@
       "contentType": "single",
       "originCountry": "USA",
       "maker": "MCA Records",
-      "description": "Chanté par Jackie, Jermaine, Randy et Tito. For promotion only. Side 1 : 1 chanson ; Side 2 : 2 chansons.",
+      "description": [
+         "Ce vinyle est une édition \"maxi\" du single publié en 1987 de la bande originale du film \"Burglar\". La",
+         " chanson est interprétée par Jackie, Tito, Jermaine et Randy, mais pas Michael. Le dos de pochette porte la",
+         " mention \"FOR PROMOTION ONLY\". Face 1 : 1 chanson ; Face 2 : 3 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "Time Out For The Burglar (Extended version)"
+            "songTitle": "Time Out For The Burglar (Extended Version)"
+         },
+         {
+            "songTitle": "Time Out For The Burglar (Radio Edit)"
          },
          {
             "songTitle": "Time Out For The Burglar (Instrumental)"
          },
          {
-            "songTitle": "Time Out For The Burglar (Bonus beats)"
+            "songTitle": "Time Out For The Burglar (Bonus Beats)"
          }
       ]
    },
@@ -5843,7 +5928,10 @@
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 5 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Ce vinyle est une édition du troisième album solo de Michael Jackson pour Epic, publié originellement le 1er",
+         " septembre 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5891,11 +5979,14 @@
       "album": "Bad",
       "year": "1987",
       "contentYear": "1987",
-      "reference": "Inconnue",
+      "reference": "9E9-44043",
       "contentType": "album",
       "originCountry": "USA",
       "maker": "MJJ Productions - Epic",
-      "description": "Picture Disc - Side 1 : 5 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Ce vinyle \"Picture Disc\" est une édition du troisième album solo de Michael Jackson pour Epic, publié",
+         " originellement le 1er septembre 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5945,9 +6036,12 @@
       "contentYear": "1987",
       "reference": "450290 2",
       "contentType": "album",
-      "originCountry": "USA",
+      "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une édition (ou une réédition) du troisième album solo de Michael Jackson pour Epic, publié",
+         " originellement le 1er septembre 1987."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -5996,13 +6090,17 @@
       "name": "Bad",
       "singer": "Michael Jackson",
       "album": "Bad",
-      "year": "1987",
+      "year": "1994",
       "contentYear": "1987",
       "reference": "450290 2",
       "contentType": "album",
-      "originCountry": "USA",
+      "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
-      "description": "Différences sur la pochette et sur 2 chansons.",
+      "description": [
+         "Ce CD est une réédition du troisième album solo de Michael Jackson pour Epic, publié originellement le 1er",
+         " septembre 1987. On peut noter des différences sur la pochette et sur certaines chansons par rapport à",
+         " l'édition précédente."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6057,7 +6155,11 @@
       "contentType": "album",
       "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une édition spéciale du troisième album solo de Michael Jackson pour Epic, publié originellement le",
+         " 1er septembre 1987. Cette édition contient en bonus trois titres inédits ou rares ainsi que des extraits",
+         " d'interviews de Quincy Jones sur la création de l'album original."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6092,12 +6194,12 @@
             "songYear": 1987
          },
          {
-            "songTitle": "I Just Can't Stop Loving You [2ème version]",
+            "songTitle": "I Just Can't Stop Loving You",
             "songYear": 1987,
             "songSinger": "Michael Jackson & Siedah Garrett"
          },
          {
-            "songTitle": "Dirty Diana [2ème version]",
+            "songTitle": "Dirty Diana",
             "songYear": 1987
          },
          {

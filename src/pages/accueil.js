@@ -19,9 +19,10 @@ const Accueil = () => {
             <p>De plus, chacune de ces pièces possède sa propre page dans laquelle se trouve de nombreuses informations
             complémentaires, parmi lesquelles la liste des chansons disponibles.</p>
             <p>DERNIÈRE MISE À JOUR<br/>*****
-            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 71 à 80.</p>
+            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 81 à 90 (époque
+            "Bad").</p>
             <p>PROCHAINES MISES À JOUR<br/>*****
-            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 81 à 253.
+            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 91 à 253.
             <br/>Ajout des images correspondantes&nbsp;: Toutes les cartes.</p>
         </div>
         <div className="accueilCard">
