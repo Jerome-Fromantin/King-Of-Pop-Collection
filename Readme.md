@@ -20,8 +20,8 @@ De plus, chacune de ces pièces possède sa propre page dans laquelle se trouve 
 HTML5 - CSS3 - JavaScript - React - GitHub
 
 ## Dernière mise à jour
-Lundi 19 septembre 2022
-- Mise à jour des cartes 81 à 90.
+Jeudi 6 octobre 2022
+- Mise à jour des cartes 91 à 100.
 
 ## Travaux réalisés ou à réaliser
 Avant GitHub :
@@ -39,8 +39,8 @@ Avec GitHub :
 - [x] Upload de tous les fichiers existants à ce jour.
 - [x] Mise en ligne sur Netlify.
 - [x] Mise en place du "lazy loading" sur les routes et certains composants avec l'ajout d'un loader.
-- [x] Page "Disques et cassettes" : Amélioration des infos dans chaque page individuelle, carte 41 à 90.
-- [ ] Page "Disques et cassettes" : Amélioration des infos dans chaque page individuelle, carte 91 à 253.
+- [x] Page "Disques et cassettes" : Amélioration des infos dans chaque page individuelle, carte 41 à 100.
+- [ ] Page "Disques et cassettes" : Amélioration des infos dans chaque page individuelle, carte 101 à 253.
 - [ ] Page "Disques et cassettes" : Ajout des images correspondant à chaque pièce, sur toutes les cartes.
 - [ ] Remplissage similaire de la page "Vidéos".
 - [ ] Remplissage similaire de la page "Livres".
