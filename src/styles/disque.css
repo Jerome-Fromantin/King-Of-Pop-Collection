@@ -1,7 +1,7 @@
 /* Pour le composant "Disque.js". */
 .gallery, .prevNextCard, .h2Div, .cardInfos, .cardSongs {
     background: lightgrey;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 10px
 }
 
@@ -43,12 +43,12 @@
 .galleryNumero {
     background: lightgray;
     width: 30px;
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 24px;
     font-weight: bold;
     text-align: center;
     padding: 0 5px;
-    border: 2px darkgoldenrod solid;
+    border: 2px #ca8b01 solid;
     border-top: none;
     border-radius: 0 0 5px 5px
 }
@@ -68,13 +68,13 @@
     margin: 0 10px
 }
 .prevNextCard:hover {
-    background: darkgoldenrod;
+    background: #ca8b01;
     color: lightgrey;
     border-color: black
 }
 
 .prevNextCard, .h2Div {
-    color: darkgoldenrod;
+    color: #ca8b01;
     text-align: center;
     padding: 5px
 }
@@ -112,7 +112,7 @@
 }
 
 .cardInfosTitle, .cardSongsTitle {
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 28px;
     font-weight: bold;
     text-align: center
@@ -136,7 +136,7 @@
 }
 
 .songYear, .songSinger {
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 24px;
     font-weight: bold
 }

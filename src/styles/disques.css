@@ -13,7 +13,7 @@
     background: lightgray;
     font-size: 32px;
     padding: 10px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 10px
 }
 /* Fin du sous-composant "Present". */
@@ -75,18 +75,18 @@
     display: inline-block;
     background: lightgray;
     padding: 0 20px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 10px;
     margin: 20px 0
 }
 
 .albsupName, .goldCount {
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 32px;
     font-weight: bold
 }
 .goldCount {
-    text-shadow: 0 0 6px darkgoldenrod
+    text-shadow: 0 0 6px #ca8b01
 }
 
 .albsupCount {
@@ -99,7 +99,7 @@
     display: inline-block;
     width: 350px;
     height: 600px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 10px;
     margin: 20px
 }
@@ -120,11 +120,11 @@
 .cardId {
     display: inline-block;
     background: lightgray;
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 24px;
     font-weight: bold;
     padding: 0 5px;
-    border: 2px darkgoldenrod solid;
+    border: 2px #ca8b01 solid;
     border-top: none;
     border-radius: 0 0 5px 5px;
     margin-bottom: 10px
@@ -153,15 +153,16 @@
 
 .disquesLink {
     background: black;
-    color: darkgoldenrod;
+    color: #ca8b01;
+    font-size: 20px;
     font-weight: bold;
     text-decoration: none;
-    padding: 5px 10px;
+    padding: 10px 20px;
     border: 2px black solid;
     border-radius: 10px
 }
 .disquesLink:hover {
-    background: darkgoldenrod;
+    background: #ca8b01;
     color: black
 }
 /* Fin du sous-composant "getCards()". */

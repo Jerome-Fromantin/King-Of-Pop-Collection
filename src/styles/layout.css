@@ -21,7 +21,7 @@
 .mjBanner {
     opacity: 0.1;
     width: 200px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 20px
 }
 .mjBanner:hover {
@@ -44,7 +44,7 @@
 .logo {
     background: white;
     width: 200px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 20px;
     margin: 0 auto
 }
@@ -55,11 +55,11 @@
 
 .title {
     background: rgba(255, 255, 255, 0.8);
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 2rem;
     text-align: center;
     padding: 10px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 20px
 }
 /* Fin du sous-composant "Banner". */
@@ -97,12 +97,12 @@ footer {
 .centerTitle-Footer {
     background: rgba(255, 255, 255, 0.8);
     padding: 0 10px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 20px
 }
 
 .title-Footer {
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 24px;
     text-align: center;
     margin-top: 0
@@ -118,12 +118,12 @@ footer {
 .loader {
     display: inline-block;
     background: lightgray;
-    color: darkgoldenrod;
+    color: #ca8b01;
     font-size: 32px;
     font-weight: bold;
     text-align: center;
     padding: 0 10px;
-    border: 4px darkgoldenrod solid;
+    border: 4px #ca8b01 solid;
     border-radius: 10px;
     margin: 20px auto
 }
