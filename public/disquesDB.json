@@ -4739,7 +4739,7 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "Sony Music Entertainment - Epic",
       "description": [
-         "Cette cassette est une réédition du second album solo de Michael Jackson (pour Epic), publié originellement",
+         "Cette cassette est une réédition du second album solo de Michael Jackson pour Epic, publié originellement",
          " le 30 novembre 1982. Face 1 : 4 chansons ; Face 2 : 5 chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
@@ -5929,8 +5929,8 @@
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
       "description": [
-         "Ce vinyle est une édition du troisième album solo de Michael Jackson pour Epic, publié originellement le 1er",
-         " septembre 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
+         "Ce vinyle est une édition du troisième album solo de Michael Jackson pour Epic, publié originellement le 31",
+         " août 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -5985,7 +5985,7 @@
       "maker": "MJJ Productions - Epic",
       "description": [
          "Ce vinyle \"Picture Disc\" est une édition du troisième album solo de Michael Jackson pour Epic, publié",
-         " originellement le 1er septembre 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
+         " originellement le 31 août 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -6040,7 +6040,7 @@
       "maker": "MJJ Productions - Epic",
       "description": [
          "Ce CD est une édition (ou une réédition) du troisième album solo de Michael Jackson pour Epic, publié",
-         " originellement le 1er septembre 1987."
+         " originellement le 31 août 1987."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -6097,9 +6097,9 @@
       "originCountry": "Autriche",
       "maker": "MJJ Productions - Epic",
       "description": [
-         "Ce CD est une réédition du troisième album solo de Michael Jackson pour Epic, publié originellement le 1er",
-         " septembre 1987. On peut noter des différences sur la pochette et sur certaines chansons par rapport à",
-         " l'édition précédente."
+         "Ce CD est une réédition du troisième album solo de Michael Jackson pour Epic, publié originellement le 31",
+         " août 1987. On peut noter des différences sur la pochette et sur certaines chansons par rapport à l'édition",
+         " précédente."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
@@ -6128,11 +6128,11 @@
             "songTitle": "Man In The Mirror"
          },
          {
-            "songTitle": "I Just Can't Stop Loving You [2ème version]",
+            "songTitle": "I Just Can't Stop Loving You",
             "songSinger": "Michael Jackson & Siedah Garrett"
          },
          {
-            "songTitle": "Dirty Diana [2ème version]"
+            "songTitle": "Dirty Diana"
          },
          {
             "songTitle": "Smooth Criminal"
@@ -6157,7 +6157,7 @@
       "maker": "MJJ Productions - Epic",
       "description": [
          "Ce CD est une édition spéciale du troisième album solo de Michael Jackson pour Epic, publié originellement le",
-         " 1er septembre 1987. Cette édition contient en bonus trois titres inédits ou rares ainsi que des extraits",
+         " 31 août 1987. Cette édition contient en bonus trois titres inédits ou rares ainsi que des extraits",
          " d'interviews de Quincy Jones sur la création de l'album original."
       ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
@@ -6257,75 +6257,100 @@
       "contentType": "album",
       "originCountry": "Europe (UE)",
       "maker": "MJJ Productions - Epic",
-      "description": "CD 1 : 11 chansons ; CD 2 : 13 chansons (Bonus Material).",
+      "description": [
+         "Ce coffret est une réédition du troisième album solo de Michael Jackson pour Epic, publié originellement le",
+         " 31 août 1987. Cette réédition fut elle publiée le 14 septembre 2012. Le 2ème CD contient dix titres inédits",
+         " ou rares et trois remixs. CD 1 : 11 chansons ; CD 2 : 13 chansons (Bonus Material)."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "Bad"
+            "songTitle": "Bad",
+            "songYear": 1987
          },
          {
-            "songTitle": "The Way You Make Me Feel"
+            "songTitle": "The Way You Make Me Feel",
+            "songYear": 1987
          },
          {
-            "songTitle": "Speed Demon"
+            "songTitle": "Speed Demon",
+            "songYear": 1987
          },
          {
-            "songTitle": "Liberian Girl"
+            "songTitle": "Liberian Girl",
+            "songYear": 1987
          },
          {
             "songTitle": "Just Good Friends",
+            "songYear": 1987,
             "songSinger": "Michael Jackson & Stevie Wonder"
          },
          {
-            "songTitle": "Another Part Of Me"
+            "songTitle": "Another Part Of Me",
+            "songYear": 1987
          },
          {
-            "songTitle": "Man In The Mirror"
+            "songTitle": "Man In The Mirror",
+            "songYear": 1987
          },
          {
-            "songTitle": "I Just Can't Stop Loving You [2ème version]",
+            "songTitle": "I Just Can't Stop Loving You",
+            "songYear": 1987,
             "songSinger": "Michael Jackson & Siedah Garrett"
          },
          {
-            "songTitle": "Dirty Diana [2ème version]"
+            "songTitle": "Dirty Diana",
+            "songYear": 1987
          },
          {
-            "songTitle": "Smooth Criminal"
+            "songTitle": "Smooth Criminal",
+            "songYear": 1987
          },
          {
-            "songTitle": "Leave Me Alone"
+            "songTitle": "Leave Me Alone",
+            "songYear": 1987
          },
          {
-            "songTitle": "Don't Be Messin' Round"
+            "songTitle": "Don't Be Messin' Round",
+            "songYear": 1987
          },
          {
-            "songTitle": "I'm So Blue"
+            "songTitle": "I'm So Blue",
+            "songYear": 1987
          },
          {
-            "songTitle": "Song Groove (a/k/a Abortion Papers)"
+            "songTitle": "Song Groove (a/k/a Abortion Papers)",
+            "songYear": 1987
          },
          {
-            "songTitle": "Free"
+            "songTitle": "Free",
+            "songYear": 1987
          },
          {
-            "songTitle": "Price Of Fame"
+            "songTitle": "Price Of Fame",
+            "songYear": 1987
          },
          {
-            "songTitle": "Al Capone"
+            "songTitle": "Al Capone",
+            "songYear": 1987
          },
          {
-            "songTitle": "Streetwalker"
+            "songTitle": "Streetwalker",
+            "songYear": 1987
          },
          {
-            "songTitle": "Fly Away"
+            "songTitle": "Fly Away",
+            "songYear": 1987
          },
          {
-            "songTitle": "Todo mi amor eres tu"
+            "songTitle": "Todo mi amor eres tu",
+            "songYear": 1987
          },
          {
-            "songTitle": "Je ne veux pas la fin de nous"
+            "songTitle": "Je ne veux pas la fin de nous",
+            "songYear": 1987
          },
          {
             "songTitle": "Bad (Remix by Afrojack featuring Pitbull - DJ Buddha edit)",
@@ -6354,7 +6379,10 @@
       "contentType": "album",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 5 chansons ; Side 2 : 5 chansons.",
+      "description": [
+         "Cette cassette est une réédition du troisième album solo de Michael Jackson pour Epic, publié originellement",
+         " le 31 août 1987. Face 1 : 5 chansons ; Face 2 : 5 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6406,13 +6434,16 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "CBS - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 20 juillet 1987. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "I Just Can't Stop Loving You (With spoken intro)",
+            "songTitle": "I Just Can't Stop Loving You (with spoken intro)",
             "songYear": 1987,
             "songSinger": "Michael Jackson & Siedah Garrett"
          },
@@ -6436,13 +6467,16 @@
       "contentType": "single",
       "originCountry": "USA",
       "maker": "Epic",
-      "description": "Demonstration only - Not for sale.",
+      "description": [
+         "Ce CD est une édition \"promo\" du single publié originellement le 20 juillet 1987. Il contient la mention",
+         " suivante : \"Demonstration only - Not for sale\""
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "I Just Can't Stop Loving You [Sans intro parlée]"
+            "songTitle": "I Just Can't Stop Loving You"
          }
       ]
    },
@@ -6459,7 +6493,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 7 septembre 1987. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6487,7 +6524,10 @@
       "contentType": "single",
       "originCountry": "Canada",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 2 chansons ; Side 2 : 3 chansons.",
+      "description": [
+         "Ce vinyle est une édition \"maxi\" du single publié originellement le 7 septembre 1987. Il contient en dos",
+         " de pochette la mention \"COPY ON LOAN ONLY\". Face 1 : 2 chansons ; Face 2 : 3 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6522,7 +6562,10 @@
       "contentType": "single",
       "originCountry": "Japon",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce mini-CD est une réédition du single publié originellement le 7 septembre 1987. Cette réédition fut elle",
+         " publiée le 26 février 1988."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6548,13 +6591,16 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 9 novembre 1987. La version en face 1 est",
+         " précisée comme étant une \"Special version\". Face 1 : 1 chanson ; Face 2 : 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
-            "songTitle": "The Way You Make Me Feel [Special version]"
+            "songTitle": "The Way You Make Me Feel"
          },
          {
             "songTitle": "The Way You Make Me Feel (Instrumental)"
@@ -6574,7 +6620,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 9 janvier 1988. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6600,7 +6649,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 18 avril 1988. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
