@@ -6678,7 +6678,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 11 juillet 1988. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6704,7 +6707,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 5 octobre 1988. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6730,7 +6736,9 @@
       "contentType": "single",
       "originCountry": "Japon",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une édition \"maxi\" japonaise du single publié originellement le 5 octobre 1988."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6765,7 +6773,10 @@
       "contentType": "single",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "MJJ Productions - Epic",
-      "description": "Side 1 : 1 chanson ; Side 2 : 1 chanson.",
+      "description": [
+         "Ce vinyle est une édition du single publié originellement le 13 février 1989. Face 1 : 1 chanson ; Face 2 :",
+         " 1 chanson."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6793,7 +6804,10 @@
       "contentType": "compilation",
       "originCountry": "Japon",
       "maker": "MJJ Productions - Epic",
-      "description": "...",
+      "description": [
+         "Ce CD est une compilation japonaise publiée le 21 novembre 1988 de remixs issus des albums \"Thriller\" et",
+         " \"Bad\"."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6841,7 +6855,10 @@
       "contentType": "compilation",
       "originCountry": "France",
       "maker": "Disky Communications Europe",
-      "description": "Uniquement des versions sans chant.",
+      "description": [
+         "Ce CD est une compilation de titres remixés en symphonique/classique, ces versions ne contiennent donc aucun",
+         " chant."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6907,9 +6924,12 @@
       "contentYear": "2001",
       "reference": "450 888-2",
       "contentType": "single",
-      "originCountry": "Europe (UE)",
+      "originCountry": "France",
       "maker": "SKG Music",
-      "description": "...",
+      "description": [
+         "Ce CD est un single du groupe Alien Ant Farm comprenant la reprise du titre \"Smooth Criminal\" de l'album",
+         " \"Bad\" de 1987."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6935,17 +6955,60 @@
       "contentType": "album",
       "originCountry": "USA",
       "maker": "Motown Record Company",
-      "description": "...",
+      "description": [
+         "Ce CD est une édition de l'album publié originellement le 6 novembre 1987. Cet album contient un duo avec",
+         " Michael Jackson, \"Get It\"."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
       "songContent": [
          {
+            "songTitle": "You Will Know",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "Dark 'n' Lovely",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "In Your Corner",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "With Each Beat Of My Heart",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "One Of A Kind",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "Skeletons",
+            "songSinger": "Stevie Wonder"
+         },
+         {
             "songTitle": "Get It",
             "songSinger": "Stevie Wonder & Michael Jackson"
          },
          {
-            "songTitle": "Autres titres",
+            "songTitle": "Galaxy Paradise",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "Cryin' Through The Night",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "Free",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "Come Let Me Make Your Love Come Down",
+            "songSinger": "Stevie Wonder"
+         },
+         {
+            "songTitle": "My Eyes Don't Cry",
             "songSinger": "Stevie Wonder"
          }
       ]
@@ -6963,7 +7026,10 @@
       "contentType": "album",
       "originCountry": "France",
       "maker": "Sony Music - Epic",
-      "description": "CD gravé.",
+      "description": [
+         "Ce CD gravé contient le dernier album des Jacksons, composés ici de Jackie, Tito, Jermaine et Randy. Marlon",
+         " et Michael (et d'autres membres de la famille) ne participent que sur le titre \"2300 Jackson Street\"."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],
@@ -6982,7 +7048,7 @@
          },
          {
             "songTitle": "2300 Jackson Street",
-            "songSinger": "The Jacksons (dont Michael)"
+            "songSinger": "Toute la famille Jackson"
          },
          {
             "songTitle": "Harley"
@@ -7017,7 +7083,10 @@
       "contentType": "compilation",
       "originCountry": "Pays-Bas (Holland)",
       "maker": "Sony Music Entertainment - Epic",
-      "description": "Side 1 : 5 chansons ; Side 2 : 7 chansons.",
+      "description": [
+         "Cette cassette est une édition d'une compilation de titres issus de différents albums du groupe ainsi qu'un",
+         " medley des Jackson 5. Face 1 : 5 chansons ; Face 2 : 7 chansons."
+      ],
       "photo": "http://thermidor.xyz/King-of-Pop/disques/defaultpic.jpg",
       "morePhotos": [
       ],

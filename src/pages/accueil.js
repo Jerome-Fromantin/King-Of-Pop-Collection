@@ -18,11 +18,11 @@ const Accueil = () => {
             Jacksons, posthume...) <strong>ou du support (CD, vinyle, cassette).</strong></p>
             <p>De plus, chacune de ces pièces possède sa propre page dans laquelle se trouve de nombreuses informations
             complémentaires, parmi lesquelles la liste des chansons disponibles.</p>
-            <p>DERNIÈRE MISE À JOUR<br/>*****
-            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 91 à 100 (époque
-            "Bad").</p>
+            <p>DERNIÈRE MISE À JOUR (23/10/2022)<br/>*****
+            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 101 à 110 (époque
+            1988-1990).</p>
             <p>PROCHAINES MISES À JOUR<br/>*****
-            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 101 à 253.
+            <br/>Amélioration des infos de chaque pièce de collection dans sa propre page&nbsp;: carte 111 à 253.
             <br/>Ajout des images correspondantes&nbsp;: Toutes les cartes.</p>
         </div>
         <div className="accueilCard">
